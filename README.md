@@ -11,7 +11,7 @@ Welcome to the documentation for the "NginxWebApp" project. Our project, named "
 - **Developer:** Gabriel Nathaniel
 - **Final Project for:** McDns LLC
 - **Bootcamp Program:** MCDNS LLC
-- **GitHub Repository:** [https://github.com/N8palmm/docker-final]
+- **GitHub Repository:** [https://github.com/N8palmm/NginxProject.git]
 
 ## Project Objectives
 
